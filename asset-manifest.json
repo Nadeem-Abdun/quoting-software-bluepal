@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/quoting-software-bluepal/static/js/main.199fff78.js",
+    "main.js": "/quoting-software-bluepal/static/js/main.a7463dc4.js",
     "static/js/787.9092da3c.chunk.js": "/quoting-software-bluepal/static/js/787.9092da3c.chunk.js",
     "static/media/BarChart.png": "/quoting-software-bluepal/static/media/BarChart.1fb632df5879274f346c.png",
     "index.html": "/quoting-software-bluepal/index.html",
-    "main.199fff78.js.map": "/quoting-software-bluepal/static/js/main.199fff78.js.map",
+    "main.a7463dc4.js.map": "/quoting-software-bluepal/static/js/main.a7463dc4.js.map",
     "787.9092da3c.chunk.js.map": "/quoting-software-bluepal/static/js/787.9092da3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.199fff78.js"
+    "static/js/main.a7463dc4.js"
   ]
 }
