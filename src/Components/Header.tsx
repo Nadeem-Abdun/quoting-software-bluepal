@@ -81,7 +81,7 @@ export default function Header() {
                             </IconButton>
                             {/* Sliding Drawer */}
                             <Drawer anchor='left' open={slideOpen} onClose={() => { setSlideOpen(false) }}>
-                                <Stack height='100vh' width='15vw' direction='column' spacing={2} padding={2} display='flex' justifyContent='center' alignItems='center' bgcolor='#edeff2' role='presentation'>
+                                <Stack height='768px' width='205px' direction='column' spacing={2} padding={2} display='flex' justifyContent='center' alignItems='center' bgcolor='#edeff2' role='presentation'>
                                     <Box height='10%' width='100%' component='img' src={Logo} />
                                     <Stack height='90%' width='100%' direction='column' spacing={2}>
                                         <StyledBtn variant='text' startIcon={<DashboardIcon />} fullWidth>Dashboard</StyledBtn>
